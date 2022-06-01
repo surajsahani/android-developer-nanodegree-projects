@@ -1,7 +1,7 @@
 # Udacity Android Developer Nanodegree Projects
 Udacity built this Nanodegree program in partnership with Google for students with intermediate programming skills who want to become professional Android developers.
 
-## Capstone Project - [Candy Pod](https://github.com/sooshin/android-candy-pod)
+## i-movies Project - [Candy Pod](https://github.com/sooshin/android-candy-pod)
 <image align="right" src="https://github.com/sooshin/android-candy-pod/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
 
 **Candy Pod** is a podcast player for podcast lovers who want to listen to podcasts for free. Discover popular podcasts and listen to your favorite podcasts anywhere, anytime. It is easy to use and you can subscribe to the podcast in one click.
