@@ -13,7 +13,7 @@ Udacity Android Developer Nanodegree Projects. You can check out all of my compl
   
   [View Source Code](https://github.com/surajsahani/Friendly-chat.git) | [View on YouTube](https://youtu.be/EuuCu4429q4)
   
-  ## Movie Buff Project - [Friendly Chat](https://github.com/surajsahani/Friendly-chat.git)
+  ## Movie Buff Project - [Movie Buff](https://github.com/surajsahani/Friendly-chat.git)
 <image align="right" src="https://github.com/surajsahani/Friendly-chat/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
   
     **Movie Buff** Movie Buff is one of the most popular free movie apps on mobile. It boasts a bunch of hit titles, various TV shows, and a bunch of genres to choose from. However, we expect it to improve over time. It’s popular, but it’s also not the best implementation of free video streaming on this list. 
@@ -25,7 +25,7 @@ Udacity Android Developer Nanodegree Projects. You can check out all of my compl
   
   [View Source Code](https://github.com/surajsahani/Movie-Buff.git) | [View on YouTube](https://youtu.be/EuuCu4429q4)
   
-  ## i-movies Project - [Friendly Chat](https://github.com/surajsahani/Friendly-chat.git)
+  ## i-movies Project - [i-movies](https://github.com/surajsahani/Friendly-chat.git)
 <image align="right" src="https://github.com/surajsahani/Friendly-chat/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
   
      **i-movies** A sample app that consume the Itune Search API. based on Kotlin MVVM architecture. 
